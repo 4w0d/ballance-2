@@ -1,4 +1,4 @@
-# Kugellabyrinth
+# Ballance
 
 Ein modernes, statisches Geschicklichkeitsspiel: Eine Kugel wird durch Neigen des Smartphones oder mit Tastatursteuerung durch Labyrinthe geführt. Das Spiel verwendet Matter.js für die Physik und speichert ausschließlich im `localStorage` des Browsers.
 
