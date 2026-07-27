@@ -4,7 +4,7 @@ Ein modernes, statisches Geschicklichkeitsspiel: Eine Kugel wird durch Neigen de
 
 ## Features
 
-- 10 datengetriebene Level mit Fallen, Checkpoints, rotierenden und beweglichen Hindernissen
+- 10 datengetriebene Level mit Fallen, Checkpoints, beweglichen Hindernissen, Teleportern und Windzonen
 - Neigungssteuerung mit Glättung, Kalibrierung und iOS-Berechtigungsdialog
 - Desktop-Fallback mit Pfeiltasten oder WASD
 - Matter.js-Physik: Gravitation, Reibung, Trägheit und Kollisionen
